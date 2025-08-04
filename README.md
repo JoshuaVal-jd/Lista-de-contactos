@@ -22,7 +22,7 @@ Este proyecto, escrito en Python 3.12.6, emula las funcionalidades básicas de u
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/lista-de-contactos.git
+   git clone https://github.com/JoshuaVal-jd/lista-de-contactos.git
    cd lista-de-contactos
    ```
 2. (Opcional) Crear y activar un entorno virtual:
